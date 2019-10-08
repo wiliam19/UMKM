@@ -8,7 +8,7 @@
 		<th>Nomor</th>
 		<th>Pemilik_id</th>
 		<th>Deposit</th>
-		<th>Nopol</th>
+		<th>Nomor_Polisi</th>
 	</tr>
 	@foreach($kendaraan as $no=>$kendaraan)
 	<tr>
