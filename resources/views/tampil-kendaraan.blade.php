@@ -5,7 +5,7 @@
 <h3>Data Kendaraan</h3>
 <table class="table table-bordered">
 	<tr>
-		<th>No</th>
+		<th>Nomor</th>
 		<th>Pemilik_id</th>
 		<th>Deposit</th>
 		<th>Nopol</th>
